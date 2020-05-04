@@ -30,4 +30,7 @@ for i in range(10):
 ## add new stuff
 lololol
 
+## VSC and git
+More stuff here. Can we do source control with VSC?
 
+Add more. 
