@@ -37,3 +37,8 @@ Add more.
 
 # Remote Changes
 Did this in Github
+
+
+# Local Changes
+This is done via VSC, locally.
+
